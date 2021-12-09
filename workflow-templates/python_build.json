@@ -1,0 +1,11 @@
+{
+    "name": "Python Build - clean test verify",
+    "description": "pyPadaiyal CI workflow template for python projects.",
+    "iconName": "python_build.svg",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "setup.py"
+    ]
+}
