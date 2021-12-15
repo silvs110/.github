@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python on Mac OS, unbuntu or windows.
 
-name: Python build
+name: Python Build - clean test verify
 
 on:
   push:
