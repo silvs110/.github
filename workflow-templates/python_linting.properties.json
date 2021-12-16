@@ -1,0 +1,11 @@
+{
+    "name": "Python linting check - flake8",
+    "description": "pyPadaiyal CI workflow template for checking code lint.",
+    "iconName": "python_build",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "setup.py"
+    ]
+}
