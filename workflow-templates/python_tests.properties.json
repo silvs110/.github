@@ -1,0 +1,11 @@
+{
+    "name": "Python tests - pytest",
+    "description": "pyPadaiyal CI workflow template for running the unit tests.",
+    "iconName": "python_build",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "setup.py"
+    ]
+}
